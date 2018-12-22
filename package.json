@@ -1,24 +1,24 @@
 {
-  "name": "modular-values",
-  "version": "1.0.0",
-  "description": "list of modular values",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cssberries/modular-values.git"
-  },
-  "keywords": [
-    "modular",
-    "system",
-    "values"
-  ],
-  "author": "Yevgeniy Belov",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cssberries/modular-values/issues"
-  },
-  "homepage": "https://github.com/cssberries/modular-values#readme"
+    "name": "modular-values",
+    "version": "1.0.0",
+    "description": "list of modular values",
+    "main": "modular-values.json",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cssberries/modular-values.git"
+    },
+    "keywords": [
+        "modular",
+        "system",
+        "values"
+    ],
+    "author": "Yevgeniy Belov",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cssberries/modular-values/issues"
+    },
+    "homepage": "https://github.com/cssberries/modular-values#readme"
 }
