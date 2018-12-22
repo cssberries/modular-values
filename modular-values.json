@@ -1,0 +1,21 @@
+{
+    "micro--xxs": "1px",
+    "micro--xs": "2px",
+    "micro--sm": "4px",
+    "micro--md": "6px",
+    "micro--lg": "9px",
+    "micro--xl": "14px",
+    "micro--xxl": "20px",
+    "xxs": "30px",
+    "xs": "50px",
+    "sm": "80px",
+    "md": "130px",
+    "lg": "210px",
+    "xl": "340px",
+    "xxl": "550px",
+    "macro--xxs": "890px",
+    "macro--xs": "1440px",
+    "macro--sm": "2323px",
+    "macro--md": "3760px",
+    "macro--lg": "6083px"
+}
